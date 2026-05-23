@@ -2,6 +2,8 @@
 
 基于 MiniMax AI 平台的智能图片生成工具，提供友好的 Web 界面，支持文生图任务队列管理。
 
+<img width="1380" height="891" alt="ScreenShot_2026-05-23_120524_976" src="https://github.com/user-attachments/assets/ccc9450f-5f78-4bff-abaf-31497e4cd544" />
+
 ## 功能特点
 
 - 🎨 **文生图** - 调用 MiniMax image-01 模型生成高质量图片
